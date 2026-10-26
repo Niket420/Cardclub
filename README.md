@@ -1,6 +1,10 @@
-# Card Club
+<p align="center">
+  <img src="src/app/icon.svg" alt="Card Club logo" width="96" height="96" />
+</p>
 
-Poker (Texas Hold'em), Rummy (13-card Indian Rummy) and UNO in the browser, on phones and laptops.
+<h1 align="center">Card Club</h1>
+
+<p align="center">Poker (Texas Hold'em), Rummy (13-card Indian Rummy) and UNO in the browser, on phones and laptops.</p>
 
 - **Play with friends:** create a room, share the 5-letter code, link or QR code. Friends only type a name.
 - **Computer players fill empty seats.** Set the table to 5 seats, and if 3 friends join, 2 computer players sit in when you start.
